@@ -1,2 +1,2 @@
-# with-typst-report
-Template repository for study field that requires reports
+# term5-databases
+[Семестр №5] Базы данных 
