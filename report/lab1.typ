@@ -7,8 +7,6 @@
   Команды SELECT, INSERT, DELETE, UPDATE.
 ])
 
-#set page(numbering: "1")
-
 = Цель работы.
 Изучение основных SQL-команд для выборки, обработки и модификации данных в PostgreSQL.
 
