@@ -19,8 +19,8 @@ jobs:
       - name: Create export directory
         run: mkdir export
 
-      - name: Compile 'report.typ'
-        run: typst compile report/report.typ export/report.pdf --font-path report/fonts
+      - name: Compile 'lab1.typ'
+        run: typst compile report/lab1.typ export/lab1.pdf --font-path report/fonts
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v6
