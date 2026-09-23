@@ -1,5 +1,5 @@
 {
     "tinymist.fontPaths": [
-        "/report/fonts"
+        "${workspaceFolder}/report/fonts"
     ]
 }
